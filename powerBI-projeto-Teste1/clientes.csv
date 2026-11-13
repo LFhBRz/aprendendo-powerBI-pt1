@@ -1,0 +1,901 @@
+id_cliente,bairro,data_cadastro,canal_aquisicao
+1,Moreninhas,2026-02-06,Cupom
+2,Jardim dos Estados,2025-10-25,Indicação
+3,Centro,2025-09-06,Indicação
+4,Jardim dos Estados,2025-08-10,Indicação
+5,Centro,2026-02-22,Indicação
+6,Vila Planalto,2025-09-30,Google
+7,Jardim dos Estados,2025-10-21,Instagram
+8,Vila Planalto,2025-09-09,Cupom
+9,Chácara Cachoeira,2025-06-24,Cupom
+10,Carandá Bosque,2025-07-04,Google
+11,Jardim dos Estados,2025-10-14,Google
+12,Centro,2025-08-05,Indicação
+13,Jardim dos Estados,2025-05-18,Instagram
+14,Moreninhas,2026-02-01,Instagram
+15,São Francisco,2025-08-04,Indicação
+16,Jardim dos Estados,2025-05-15,Indicação
+17,Centro,2025-10-14,Indicação
+18,Coronel Antonino,2025-10-28,Google
+19,Centro,2025-05-15,Instagram
+20,Tiradentes,2025-12-08,Google
+21,Tiradentes,2026-01-09,Instagram
+22,Carandá Bosque,2025-12-03,Indicação
+23,Vila Planalto,2025-12-12,Indicação
+24,Moreninhas,2025-08-17,Instagram
+25,Tiradentes,2025-07-28,Indicação
+26,São Francisco,2025-07-14,Cupom
+27,Vila Carvalho,2025-11-03,Indicação
+28,Carandá Bosque,2025-10-29,Instagram
+29,Carandá Bosque,2025-10-31,Google
+30,Jardim dos Estados,2026-02-11,Instagram
+31,Coronel Antonino,2025-10-25,Google
+32,Coronel Antonino,2025-06-11,Instagram
+33,Monte Castelo,2025-11-14,Google
+34,Centro,2025-10-11,Instagram
+35,Centro,2025-09-08,Instagram
+36,Moreninhas,2025-10-19,Instagram
+37,Moreninhas,2025-12-26,Indicação
+38,Centro,2025-12-01,Instagram
+39,Coronel Antonino,2025-06-28,Indicação
+40,Vila Carvalho,2025-08-20,Instagram
+41,Santa Fé,2025-09-01,Instagram
+42,Centro,2026-01-22,Indicação
+43,Centro,2026-02-25,Instagram
+44,Monte Castelo,2025-06-24,Indicação
+45,Centro,2025-11-08,Instagram
+46,Centro,2026-02-12,Indicação
+47,Santa Fé,2025-12-26,Indicação
+48,Jardim dos Estados,2025-05-04,Google
+49,Centro,2026-02-04,Google
+50,Coronel Antonino,2025-05-28,Instagram
+51,Centro,2025-05-17,Indicação
+52,Tiradentes,2026-02-11,Google
+53,Jardim dos Estados,2025-05-10,Google
+54,Moreninhas,2025-07-16,Instagram
+55,Santa Fé,2025-05-01,Instagram
+56,Jardim dos Estados,2026-02-15,Cupom
+57,Moreninhas,2026-02-20,Indicação
+58,Jardim dos Estados,2025-05-15,Google
+59,São Francisco,2025-09-02,Google
+60,Centro,2025-06-04,Google
+61,Centro,2025-09-07,Google
+62,Vila Carvalho,2025-05-03,Instagram
+63,Santa Fé,2025-06-04,Cupom
+64,Tiradentes,2025-09-30,Google
+65,Santa Fé,2025-10-08,Instagram
+66,Moreninhas,2025-09-28,Google
+67,Centro,2025-10-14,Instagram
+68,Vila Carvalho,2026-01-30,Google
+69,Moreninhas,2025-11-10,Instagram
+70,Jardim dos Estados,2026-01-16,Google
+71,São Francisco,2025-12-07,Instagram
+72,Monte Castelo,2025-05-19,Indicação
+73,Vila Planalto,2025-08-24,Google
+74,Jardim dos Estados,2026-01-17,Google
+75,Monte Castelo,2025-10-27,Indicação
+76,Santa Fé,2025-11-03,Google
+77,Centro,2025-05-15,Instagram
+78,Vila Carvalho,2025-07-20,Instagram
+79,Carandá Bosque,2025-07-03,Instagram
+80,Vila Carvalho,2025-06-20,Instagram
+81,Carandá Bosque,2025-07-17,Indicação
+82,Chácara Cachoeira,2025-08-06,Indicação
+83,Centro,2025-07-03,Instagram
+84,Chácara Cachoeira,2025-06-20,Indicação
+85,Vila Carvalho,2025-06-02,Instagram
+86,Vila Carvalho,2025-05-25,Indicação
+87,Vila Planalto,2025-10-27,Instagram
+88,Tiradentes,2025-10-05,Google
+89,Vila Planalto,2025-11-03,Instagram
+90,Santa Fé,2025-12-05,Cupom
+91,Tiradentes,2026-01-24,Indicação
+92,Tiradentes,2025-09-11,Cupom
+93,Santa Fé,2025-10-31,Instagram
+94,Centro,2025-09-04,Instagram
+95,São Francisco,2025-07-02,Indicação
+96,São Francisco,2025-11-09,Cupom
+97,Coronel Antonino,2025-10-14,Indicação
+98,Monte Castelo,2025-10-27,Google
+99,Coronel Antonino,2025-05-23,Cupom
+100,Vila Carvalho,2025-10-17,Indicação
+101,Centro,2025-05-30,Instagram
+102,São Francisco,2025-06-22,Indicação
+103,Centro,2025-07-04,Indicação
+104,Centro,2025-11-15,Indicação
+105,Vila Carvalho,2025-09-24,Indicação
+106,Vila Planalto,2025-08-06,Indicação
+107,Centro,2026-01-30,Indicação
+108,Vila Carvalho,2026-02-18,Indicação
+109,Jardim dos Estados,2025-05-01,Google
+110,Vila Planalto,2025-09-16,Indicação
+111,Monte Castelo,2025-07-21,Google
+112,Vila Planalto,2025-11-17,Cupom
+113,Jardim dos Estados,2025-08-08,Instagram
+114,Centro,2026-02-03,Instagram
+115,Centro,2025-07-10,Instagram
+116,Coronel Antonino,2025-09-06,Indicação
+117,Carandá Bosque,2025-11-01,Cupom
+118,Monte Castelo,2025-09-24,Google
+119,Moreninhas,2025-08-24,Indicação
+120,Tiradentes,2025-06-22,Instagram
+121,Centro,2025-09-30,Cupom
+122,Vila Planalto,2025-08-12,Instagram
+123,Carandá Bosque,2025-09-07,Indicação
+124,Centro,2025-08-21,Google
+125,Moreninhas,2026-01-06,Instagram
+126,Coronel Antonino,2025-08-12,Instagram
+127,Coronel Antonino,2025-11-23,Google
+128,Vila Carvalho,2025-05-11,Cupom
+129,Vila Carvalho,2025-12-29,Google
+130,Tiradentes,2025-07-02,Instagram
+131,Carandá Bosque,2025-08-18,Google
+132,Chácara Cachoeira,2025-11-18,Cupom
+133,Centro,2025-10-02,Google
+134,Vila Carvalho,2026-02-09,Instagram
+135,Coronel Antonino,2025-08-19,Google
+136,Tiradentes,2026-01-06,Instagram
+137,Coronel Antonino,2025-10-17,Cupom
+138,Centro,2025-12-22,Google
+139,Carandá Bosque,2025-11-25,Indicação
+140,São Francisco,2025-06-16,Instagram
+141,Monte Castelo,2025-06-04,Cupom
+142,Centro,2025-12-01,Google
+143,Santa Fé,2026-01-23,Instagram
+144,Vila Planalto,2025-10-10,Instagram
+145,Monte Castelo,2025-09-18,Instagram
+146,Vila Carvalho,2025-09-14,Instagram
+147,Moreninhas,2025-05-04,Instagram
+148,Centro,2025-07-07,Indicação
+149,Vila Carvalho,2025-06-25,Instagram
+150,Tiradentes,2026-01-08,Instagram
+151,Jardim dos Estados,2025-05-19,Cupom
+152,Chácara Cachoeira,2025-06-19,Cupom
+153,Jardim dos Estados,2025-06-23,Instagram
+154,Centro,2025-05-20,Instagram
+155,Chácara Cachoeira,2025-06-14,Indicação
+156,Chácara Cachoeira,2025-09-03,Instagram
+157,Carandá Bosque,2025-05-22,Instagram
+158,Carandá Bosque,2025-12-17,Cupom
+159,Coronel Antonino,2025-07-28,Google
+160,Vila Planalto,2025-07-05,Google
+161,Coronel Antonino,2025-11-05,Instagram
+162,Vila Planalto,2025-09-27,Cupom
+163,Jardim dos Estados,2025-10-22,Indicação
+164,Santa Fé,2025-08-26,Instagram
+165,Centro,2026-01-21,Cupom
+166,Coronel Antonino,2025-09-08,Instagram
+167,Vila Carvalho,2025-07-22,Instagram
+168,Coronel Antonino,2025-07-27,Cupom
+169,Moreninhas,2025-07-08,Instagram
+170,Centro,2025-09-28,Instagram
+171,Monte Castelo,2025-05-13,Google
+172,Vila Carvalho,2025-05-23,Cupom
+173,Coronel Antonino,2026-01-22,Indicação
+174,Santa Fé,2025-10-23,Indicação
+175,Vila Planalto,2025-08-08,Indicação
+176,São Francisco,2025-05-17,Instagram
+177,Centro,2025-06-25,Instagram
+178,Centro,2025-12-20,Instagram
+179,Vila Carvalho,2026-02-21,Cupom
+180,Jardim dos Estados,2026-01-07,Indicação
+181,Tiradentes,2025-06-03,Cupom
+182,Vila Carvalho,2025-05-28,Cupom
+183,Centro,2025-07-03,Cupom
+184,Centro,2025-11-04,Instagram
+185,São Francisco,2026-02-09,Cupom
+186,Centro,2025-06-09,Cupom
+187,Santa Fé,2025-10-29,Instagram
+188,Monte Castelo,2025-06-29,Cupom
+189,Centro,2026-01-26,Instagram
+190,Santa Fé,2025-06-03,Indicação
+191,Moreninhas,2025-08-19,Google
+192,Carandá Bosque,2025-08-13,Cupom
+193,Centro,2025-11-19,Google
+194,Santa Fé,2025-09-24,Indicação
+195,Centro,2025-09-09,Indicação
+196,Jardim dos Estados,2026-01-06,Google
+197,Santa Fé,2025-09-19,Cupom
+198,Vila Carvalho,2025-08-25,Instagram
+199,Vila Carvalho,2026-02-19,Cupom
+200,Vila Carvalho,2025-10-20,Google
+201,Vila Carvalho,2025-07-25,Google
+202,Jardim dos Estados,2025-11-22,Instagram
+203,Chácara Cachoeira,2025-05-23,Indicação
+204,Santa Fé,2025-09-03,Cupom
+205,Carandá Bosque,2025-05-03,Indicação
+206,Vila Carvalho,2025-06-10,Instagram
+207,Centro,2025-07-29,Cupom
+208,Centro,2025-08-01,Google
+209,Tiradentes,2025-10-18,Cupom
+210,Centro,2025-06-27,Google
+211,São Francisco,2025-11-25,Instagram
+212,Santa Fé,2025-07-25,Cupom
+213,Vila Planalto,2025-07-14,Indicação
+214,Moreninhas,2025-11-11,Google
+215,Santa Fé,2025-06-02,Google
+216,Centro,2025-08-15,Google
+217,Centro,2025-07-21,Instagram
+218,Vila Carvalho,2025-11-18,Google
+219,Tiradentes,2025-08-16,Instagram
+220,Vila Carvalho,2026-01-17,Indicação
+221,Vila Planalto,2025-08-05,Instagram
+222,Centro,2026-01-06,Google
+223,Centro,2025-11-08,Instagram
+224,Vila Planalto,2025-11-14,Indicação
+225,Moreninhas,2026-01-05,Instagram
+226,Moreninhas,2025-05-18,Cupom
+227,Santa Fé,2025-11-01,Indicação
+228,Centro,2025-05-24,Google
+229,Coronel Antonino,2025-09-23,Cupom
+230,Coronel Antonino,2025-05-15,Google
+231,Coronel Antonino,2025-06-06,Google
+232,Centro,2025-05-08,Instagram
+233,Vila Planalto,2025-09-24,Instagram
+234,São Francisco,2025-09-04,Google
+235,Santa Fé,2025-05-20,Google
+236,São Francisco,2026-01-14,Cupom
+237,Tiradentes,2025-10-17,Instagram
+238,Tiradentes,2025-08-26,Indicação
+239,Santa Fé,2025-10-11,Instagram
+240,Centro,2025-09-25,Indicação
+241,Jardim dos Estados,2025-05-06,Instagram
+242,Jardim dos Estados,2025-11-10,Indicação
+243,Monte Castelo,2025-07-10,Instagram
+244,Tiradentes,2025-08-18,Google
+245,Monte Castelo,2026-01-09,Instagram
+246,São Francisco,2025-11-29,Google
+247,São Francisco,2025-10-05,Instagram
+248,Chácara Cachoeira,2025-06-11,Instagram
+249,Vila Carvalho,2025-12-17,Instagram
+250,São Francisco,2025-11-23,Instagram
+251,Vila Carvalho,2026-01-22,Instagram
+252,Centro,2025-09-07,Cupom
+253,Vila Planalto,2025-12-03,Instagram
+254,Vila Planalto,2025-11-01,Google
+255,Vila Carvalho,2025-10-27,Indicação
+256,Jardim dos Estados,2025-11-21,Instagram
+257,São Francisco,2025-07-05,Instagram
+258,Chácara Cachoeira,2025-11-05,Indicação
+259,Centro,2026-01-29,Indicação
+260,Coronel Antonino,2025-09-07,Indicação
+261,Coronel Antonino,2026-01-06,Indicação
+262,Jardim dos Estados,2026-01-07,Indicação
+263,São Francisco,2025-09-27,Instagram
+264,Centro,2026-01-06,Indicação
+265,Vila Carvalho,2025-06-05,Instagram
+266,Carandá Bosque,2025-09-11,Cupom
+267,Centro,2025-08-11,Instagram
+268,São Francisco,2025-07-10,Instagram
+269,Coronel Antonino,2025-10-08,Indicação
+270,Moreninhas,2025-10-20,Indicação
+271,Coronel Antonino,2025-11-14,Indicação
+272,Tiradentes,2026-01-27,Indicação
+273,Tiradentes,2025-09-18,Cupom
+274,São Francisco,2026-01-11,Indicação
+275,Carandá Bosque,2025-10-04,Instagram
+276,Centro,2025-06-16,Google
+277,Tiradentes,2025-06-28,Google
+278,Coronel Antonino,2025-05-21,Indicação
+279,Santa Fé,2025-08-14,Cupom
+280,Centro,2026-02-20,Google
+281,Centro,2026-01-16,Instagram
+282,Jardim dos Estados,2025-12-29,Google
+283,Vila Planalto,2025-10-15,Indicação
+284,Vila Planalto,2025-06-08,Indicação
+285,Vila Carvalho,2025-07-13,Cupom
+286,Vila Carvalho,2025-08-01,Google
+287,Jardim dos Estados,2025-08-29,Cupom
+288,Monte Castelo,2025-12-28,Instagram
+289,Jardim dos Estados,2025-11-20,Indicação
+290,Vila Planalto,2025-06-17,Google
+291,Vila Carvalho,2025-10-16,Instagram
+292,Centro,2025-08-27,Google
+293,São Francisco,2025-09-09,Instagram
+294,Carandá Bosque,2025-08-29,Instagram
+295,Moreninhas,2025-05-02,Instagram
+296,Jardim dos Estados,2025-12-12,Instagram
+297,Monte Castelo,2025-08-31,Instagram
+298,Coronel Antonino,2025-06-10,Cupom
+299,Moreninhas,2025-08-06,Cupom
+300,Centro,2026-02-01,Instagram
+301,São Francisco,2025-06-16,Google
+302,Vila Carvalho,2025-09-04,Instagram
+303,Carandá Bosque,2025-10-09,Google
+304,Tiradentes,2026-02-08,Google
+305,Jardim dos Estados,2025-07-14,Indicação
+306,Monte Castelo,2025-08-03,Indicação
+307,Tiradentes,2025-12-28,Indicação
+308,Vila Carvalho,2025-07-20,Instagram
+309,Centro,2025-10-15,Instagram
+310,Tiradentes,2025-05-06,Instagram
+311,Centro,2026-01-06,Instagram
+312,Vila Planalto,2025-10-19,Instagram
+313,Vila Planalto,2025-11-19,Instagram
+314,São Francisco,2025-10-31,Google
+315,Carandá Bosque,2025-06-14,Indicação
+316,Carandá Bosque,2025-08-08,Google
+317,Carandá Bosque,2025-12-15,Google
+318,Carandá Bosque,2025-10-23,Cupom
+319,Vila Planalto,2026-01-03,Instagram
+320,Vila Planalto,2025-12-18,Instagram
+321,Carandá Bosque,2025-06-30,Indicação
+322,Chácara Cachoeira,2025-09-26,Instagram
+323,Vila Planalto,2025-12-01,Indicação
+324,Vila Planalto,2025-09-04,Instagram
+325,Vila Planalto,2025-10-16,Indicação
+326,Carandá Bosque,2025-08-05,Google
+327,Moreninhas,2025-11-16,Instagram
+328,Centro,2025-06-17,Indicação
+329,Coronel Antonino,2025-12-30,Cupom
+330,Centro,2026-02-19,Instagram
+331,Centro,2026-01-02,Indicação
+332,Vila Planalto,2025-08-11,Google
+333,Jardim dos Estados,2026-01-01,Google
+334,Moreninhas,2025-10-13,Google
+335,Centro,2026-01-11,Indicação
+336,Vila Carvalho,2025-07-29,Cupom
+337,Vila Carvalho,2025-12-01,Indicação
+338,Vila Planalto,2025-06-07,Indicação
+339,Tiradentes,2025-12-06,Indicação
+340,Vila Planalto,2025-09-20,Instagram
+341,Coronel Antonino,2025-12-28,Cupom
+342,Chácara Cachoeira,2025-11-09,Instagram
+343,Centro,2025-05-06,Indicação
+344,Centro,2026-02-05,Google
+345,Jardim dos Estados,2025-05-19,Indicação
+346,Jardim dos Estados,2025-07-16,Instagram
+347,Coronel Antonino,2025-09-03,Indicação
+348,Jardim dos Estados,2025-05-24,Instagram
+349,Santa Fé,2025-11-26,Google
+350,Carandá Bosque,2026-02-19,Google
+351,Vila Planalto,2025-07-08,Google
+352,Monte Castelo,2025-12-15,Instagram
+353,Jardim dos Estados,2026-01-09,Google
+354,São Francisco,2026-02-05,Google
+355,Vila Planalto,2025-07-24,Instagram
+356,Vila Carvalho,2026-02-20,Google
+357,Centro,2026-02-08,Indicação
+358,Tiradentes,2026-02-03,Google
+359,Monte Castelo,2025-06-21,Cupom
+360,Carandá Bosque,2026-01-18,Instagram
+361,Chácara Cachoeira,2025-12-19,Indicação
+362,Centro,2026-02-02,Google
+363,São Francisco,2025-05-17,Google
+364,Vila Planalto,2025-09-15,Indicação
+365,Centro,2025-12-06,Google
+366,Centro,2025-07-28,Instagram
+367,Vila Carvalho,2025-06-04,Indicação
+368,Vila Carvalho,2025-12-14,Cupom
+369,Moreninhas,2025-05-26,Indicação
+370,São Francisco,2025-05-06,Cupom
+371,Moreninhas,2025-08-28,Indicação
+372,São Francisco,2026-01-08,Google
+373,Vila Carvalho,2025-12-15,Instagram
+374,Tiradentes,2025-07-08,Instagram
+375,Tiradentes,2025-07-02,Cupom
+376,Centro,2025-07-28,Instagram
+377,Vila Carvalho,2025-06-20,Google
+378,Centro,2026-02-21,Instagram
+379,Vila Planalto,2025-08-03,Instagram
+380,Vila Planalto,2025-10-10,Google
+381,Carandá Bosque,2025-10-18,Google
+382,Centro,2025-11-20,Google
+383,Jardim dos Estados,2025-10-21,Cupom
+384,São Francisco,2026-02-07,Instagram
+385,Carandá Bosque,2025-11-26,Instagram
+386,Vila Planalto,2025-06-21,Google
+387,Coronel Antonino,2025-10-26,Cupom
+388,Carandá Bosque,2025-10-17,Indicação
+389,Tiradentes,2025-10-02,Cupom
+390,Coronel Antonino,2025-06-22,Indicação
+391,Tiradentes,2026-02-04,Google
+392,Santa Fé,2025-09-27,Google
+393,Vila Planalto,2025-06-02,Instagram
+394,Centro,2025-05-17,Instagram
+395,Centro,2025-07-13,Instagram
+396,Centro,2025-07-19,Instagram
+397,Centro,2025-09-24,Instagram
+398,Jardim dos Estados,2025-05-12,Instagram
+399,Centro,2025-06-01,Cupom
+400,Vila Planalto,2026-01-11,Google
+401,Jardim dos Estados,2025-06-28,Instagram
+402,Centro,2025-12-26,Instagram
+403,Jardim dos Estados,2026-02-19,Cupom
+404,Moreninhas,2026-02-16,Google
+405,Vila Planalto,2026-02-19,Instagram
+406,Moreninhas,2025-09-15,Instagram
+407,São Francisco,2025-10-16,Indicação
+408,Santa Fé,2025-07-30,Google
+409,Chácara Cachoeira,2025-10-30,Google
+410,Coronel Antonino,2026-02-18,Google
+411,Tiradentes,2025-09-28,Instagram
+412,Vila Planalto,2025-12-26,Instagram
+413,Coronel Antonino,2025-05-24,Instagram
+414,Jardim dos Estados,2025-08-18,Instagram
+415,Vila Planalto,2025-12-15,Instagram
+416,Tiradentes,2025-09-16,Instagram
+417,Tiradentes,2025-11-23,Google
+418,Vila Planalto,2025-09-17,Instagram
+419,São Francisco,2026-02-08,Indicação
+420,Tiradentes,2025-06-01,Indicação
+421,Carandá Bosque,2025-11-27,Cupom
+422,Centro,2025-12-21,Instagram
+423,Vila Carvalho,2025-06-27,Indicação
+424,Vila Carvalho,2025-07-14,Cupom
+425,São Francisco,2025-08-31,Indicação
+426,Tiradentes,2025-10-30,Indicação
+427,Carandá Bosque,2025-12-04,Google
+428,Santa Fé,2025-07-08,Instagram
+429,Monte Castelo,2025-08-15,Instagram
+430,Chácara Cachoeira,2025-05-19,Instagram
+431,Santa Fé,2025-11-13,Instagram
+432,Centro,2026-01-04,Instagram
+433,Coronel Antonino,2025-06-30,Instagram
+434,Monte Castelo,2025-07-27,Cupom
+435,Jardim dos Estados,2026-01-27,Instagram
+436,São Francisco,2025-11-10,Instagram
+437,Vila Carvalho,2025-06-05,Cupom
+438,Centro,2025-07-12,Indicação
+439,Moreninhas,2025-09-12,Instagram
+440,Coronel Antonino,2026-02-22,Google
+441,Vila Planalto,2025-10-21,Google
+442,Jardim dos Estados,2025-05-17,Cupom
+443,Vila Carvalho,2026-01-13,Google
+444,Vila Carvalho,2026-02-10,Indicação
+445,Vila Carvalho,2026-02-18,Indicação
+446,Monte Castelo,2025-10-09,Cupom
+447,Coronel Antonino,2025-10-06,Instagram
+448,Moreninhas,2025-11-22,Indicação
+449,Tiradentes,2025-12-24,Cupom
+450,Centro,2025-10-31,Google
+451,Moreninhas,2026-02-07,Instagram
+452,Centro,2025-06-23,Instagram
+453,Monte Castelo,2025-10-14,Instagram
+454,São Francisco,2025-05-15,Instagram
+455,Vila Planalto,2025-09-23,Cupom
+456,Vila Planalto,2025-06-10,Indicação
+457,Monte Castelo,2026-01-16,Instagram
+458,Tiradentes,2025-06-19,Instagram
+459,Centro,2025-10-01,Instagram
+460,Centro,2025-09-22,Instagram
+461,Jardim dos Estados,2025-05-05,Google
+462,Centro,2025-05-08,Instagram
+463,Carandá Bosque,2025-10-21,Cupom
+464,São Francisco,2026-02-19,Indicação
+465,Monte Castelo,2026-02-09,Cupom
+466,Vila Planalto,2026-01-21,Indicação
+467,Tiradentes,2025-05-14,Cupom
+468,Coronel Antonino,2025-06-13,Indicação
+469,Monte Castelo,2026-02-08,Cupom
+470,Centro,2025-11-17,Instagram
+471,Tiradentes,2025-06-24,Indicação
+472,Chácara Cachoeira,2025-11-24,Instagram
+473,Centro,2025-11-14,Instagram
+474,Chácara Cachoeira,2025-09-10,Cupom
+475,Tiradentes,2025-08-01,Google
+476,Vila Planalto,2026-01-23,Google
+477,Centro,2026-01-09,Google
+478,Tiradentes,2025-05-19,Cupom
+479,Monte Castelo,2025-09-11,Google
+480,Santa Fé,2025-11-18,Google
+481,São Francisco,2025-08-29,Indicação
+482,Carandá Bosque,2025-11-04,Instagram
+483,Chácara Cachoeira,2025-10-21,Indicação
+484,Tiradentes,2025-07-13,Instagram
+485,Carandá Bosque,2025-10-30,Cupom
+486,Coronel Antonino,2025-06-23,Google
+487,Jardim dos Estados,2026-02-06,Google
+488,Chácara Cachoeira,2025-07-29,Instagram
+489,Coronel Antonino,2025-06-03,Google
+490,Vila Planalto,2026-01-31,Instagram
+491,Carandá Bosque,2025-07-15,Google
+492,Centro,2026-01-03,Instagram
+493,Tiradentes,2025-09-19,Google
+494,São Francisco,2026-01-06,Indicação
+495,Centro,2025-07-29,Instagram
+496,Tiradentes,2025-10-13,Google
+497,São Francisco,2025-05-16,Cupom
+498,Monte Castelo,2025-07-29,Google
+499,Jardim dos Estados,2025-09-16,Indicação
+500,Jardim dos Estados,2025-07-16,Instagram
+501,Tiradentes,2026-02-24,Instagram
+502,Monte Castelo,2025-10-10,Instagram
+503,Chácara Cachoeira,2026-01-27,Instagram
+504,Carandá Bosque,2025-08-21,Instagram
+505,Centro,2025-06-12,Indicação
+506,Monte Castelo,2025-12-21,Instagram
+507,Centro,2025-10-13,Indicação
+508,Monte Castelo,2025-05-07,Instagram
+509,Monte Castelo,2025-05-23,Instagram
+510,Coronel Antonino,2025-08-30,Google
+511,Jardim dos Estados,2025-12-09,Google
+512,Vila Carvalho,2025-12-14,Google
+513,Carandá Bosque,2025-09-29,Indicação
+514,Santa Fé,2026-01-01,Instagram
+515,São Francisco,2025-06-10,Instagram
+516,Centro,2025-09-20,Indicação
+517,Centro,2025-09-01,Indicação
+518,Coronel Antonino,2025-10-13,Instagram
+519,Centro,2025-12-07,Instagram
+520,Vila Planalto,2025-06-25,Indicação
+521,Moreninhas,2025-10-14,Google
+522,Vila Carvalho,2025-06-05,Indicação
+523,Tiradentes,2025-09-07,Indicação
+524,Jardim dos Estados,2025-11-11,Cupom
+525,Santa Fé,2025-05-05,Indicação
+526,Jardim dos Estados,2025-06-25,Instagram
+527,Centro,2025-05-30,Cupom
+528,São Francisco,2025-11-13,Instagram
+529,Coronel Antonino,2025-11-24,Indicação
+530,Monte Castelo,2026-02-02,Google
+531,Tiradentes,2025-06-08,Instagram
+532,Centro,2026-01-10,Instagram
+533,São Francisco,2025-12-10,Indicação
+534,Carandá Bosque,2025-09-12,Instagram
+535,Jardim dos Estados,2025-08-21,Google
+536,Tiradentes,2025-12-02,Indicação
+537,Santa Fé,2025-09-21,Instagram
+538,Centro,2025-09-03,Indicação
+539,Chácara Cachoeira,2025-10-29,Google
+540,Vila Carvalho,2025-08-19,Cupom
+541,Moreninhas,2025-05-20,Instagram
+542,Vila Carvalho,2026-01-26,Google
+543,Moreninhas,2025-08-10,Google
+544,Vila Carvalho,2025-08-03,Instagram
+545,São Francisco,2025-06-24,Instagram
+546,Vila Carvalho,2025-10-01,Google
+547,Chácara Cachoeira,2025-07-21,Google
+548,Centro,2025-10-27,Indicação
+549,Monte Castelo,2025-10-11,Cupom
+550,São Francisco,2025-08-31,Google
+551,Jardim dos Estados,2025-06-28,Google
+552,Santa Fé,2025-08-29,Instagram
+553,Monte Castelo,2025-12-29,Google
+554,Coronel Antonino,2025-09-21,Instagram
+555,Moreninhas,2025-06-11,Instagram
+556,Vila Planalto,2026-01-07,Indicação
+557,Jardim dos Estados,2025-07-14,Google
+558,Vila Planalto,2025-11-04,Instagram
+559,Monte Castelo,2025-05-03,Cupom
+560,Centro,2025-12-04,Google
+561,Coronel Antonino,2025-10-21,Indicação
+562,Tiradentes,2025-10-12,Cupom
+563,Moreninhas,2025-09-14,Instagram
+564,Coronel Antonino,2025-08-02,Cupom
+565,Tiradentes,2026-02-10,Indicação
+566,Jardim dos Estados,2025-06-11,Indicação
+567,Centro,2025-07-25,Instagram
+568,Jardim dos Estados,2026-01-12,Cupom
+569,Centro,2025-12-24,Instagram
+570,Monte Castelo,2025-07-03,Cupom
+571,Carandá Bosque,2025-11-26,Instagram
+572,Jardim dos Estados,2025-05-24,Google
+573,Jardim dos Estados,2025-07-14,Instagram
+574,Moreninhas,2025-08-30,Instagram
+575,Tiradentes,2025-10-18,Instagram
+576,Tiradentes,2025-06-11,Instagram
+577,Centro,2025-08-25,Google
+578,Moreninhas,2026-02-11,Google
+579,Tiradentes,2025-08-22,Indicação
+580,Centro,2025-05-01,Instagram
+581,Tiradentes,2025-06-14,Google
+582,Vila Planalto,2025-10-01,Google
+583,Jardim dos Estados,2025-07-07,Instagram
+584,Vila Carvalho,2025-08-03,Google
+585,Tiradentes,2025-11-08,Instagram
+586,Jardim dos Estados,2025-07-11,Google
+587,Moreninhas,2025-05-29,Google
+588,Carandá Bosque,2026-02-21,Instagram
+589,Carandá Bosque,2025-07-02,Instagram
+590,Vila Planalto,2025-10-19,Google
+591,Centro,2025-10-03,Indicação
+592,São Francisco,2025-11-25,Instagram
+593,Tiradentes,2026-01-30,Google
+594,Chácara Cachoeira,2026-02-03,Cupom
+595,Vila Planalto,2025-12-12,Google
+596,Santa Fé,2025-09-28,Google
+597,Jardim dos Estados,2025-12-09,Instagram
+598,Vila Carvalho,2025-06-21,Indicação
+599,Tiradentes,2025-11-11,Cupom
+600,Coronel Antonino,2025-06-06,Google
+601,Carandá Bosque,2025-07-30,Indicação
+602,Centro,2025-08-23,Google
+603,São Francisco,2025-06-29,Indicação
+604,Chácara Cachoeira,2025-07-26,Indicação
+605,Santa Fé,2025-08-05,Cupom
+606,Centro,2025-08-20,Google
+607,Centro,2025-05-24,Instagram
+608,Coronel Antonino,2025-12-14,Indicação
+609,Jardim dos Estados,2025-11-05,Google
+610,Carandá Bosque,2025-06-13,Indicação
+611,Santa Fé,2025-07-19,Indicação
+612,Centro,2025-10-11,Indicação
+613,Jardim dos Estados,2025-11-13,Google
+614,Coronel Antonino,2025-11-09,Google
+615,Moreninhas,2025-06-02,Indicação
+616,Tiradentes,2025-10-22,Google
+617,Centro,2025-12-26,Indicação
+618,Centro,2025-11-20,Instagram
+619,Tiradentes,2025-08-10,Instagram
+620,Monte Castelo,2025-12-18,Instagram
+621,Tiradentes,2025-12-30,Instagram
+622,Centro,2025-12-18,Indicação
+623,Coronel Antonino,2025-06-06,Cupom
+624,Chácara Cachoeira,2025-09-22,Indicação
+625,Chácara Cachoeira,2026-01-16,Instagram
+626,Vila Carvalho,2026-01-03,Instagram
+627,Centro,2025-09-06,Instagram
+628,Carandá Bosque,2026-02-18,Indicação
+629,São Francisco,2025-12-02,Cupom
+630,Centro,2025-07-28,Google
+631,Vila Planalto,2025-11-28,Indicação
+632,São Francisco,2025-05-17,Indicação
+633,Carandá Bosque,2025-10-07,Indicação
+634,Tiradentes,2025-05-07,Cupom
+635,Tiradentes,2025-11-12,Google
+636,São Francisco,2026-01-22,Cupom
+637,Carandá Bosque,2025-07-26,Instagram
+638,Tiradentes,2025-05-05,Instagram
+639,Jardim dos Estados,2025-08-12,Indicação
+640,Centro,2025-07-07,Instagram
+641,Jardim dos Estados,2025-07-13,Cupom
+642,Tiradentes,2025-10-30,Instagram
+643,Carandá Bosque,2026-01-18,Instagram
+644,Monte Castelo,2025-08-30,Google
+645,Centro,2025-09-01,Indicação
+646,Vila Planalto,2025-09-17,Indicação
+647,Centro,2025-11-20,Indicação
+648,Coronel Antonino,2025-11-05,Indicação
+649,Centro,2025-06-06,Instagram
+650,Moreninhas,2025-08-26,Instagram
+651,Centro,2025-06-20,Google
+652,Vila Carvalho,2025-09-11,Google
+653,Centro,2025-10-24,Indicação
+654,Coronel Antonino,2025-07-05,Instagram
+655,Carandá Bosque,2025-09-14,Google
+656,Centro,2025-11-09,Google
+657,Santa Fé,2025-10-01,Instagram
+658,Vila Planalto,2025-08-29,Instagram
+659,Centro,2025-12-31,Google
+660,Carandá Bosque,2026-02-25,Cupom
+661,Centro,2025-09-19,Google
+662,Centro,2026-02-23,Cupom
+663,Moreninhas,2026-01-16,Cupom
+664,Centro,2025-09-25,Instagram
+665,Chácara Cachoeira,2026-02-05,Google
+666,São Francisco,2025-12-27,Instagram
+667,Jardim dos Estados,2026-01-12,Indicação
+668,Moreninhas,2025-07-01,Google
+669,Vila Planalto,2026-02-05,Cupom
+670,Tiradentes,2025-05-18,Google
+671,Vila Carvalho,2025-12-08,Google
+672,Vila Planalto,2025-05-15,Google
+673,Chácara Cachoeira,2026-01-30,Instagram
+674,Vila Planalto,2026-02-19,Instagram
+675,Chácara Cachoeira,2026-01-10,Google
+676,Vila Planalto,2025-08-28,Google
+677,Santa Fé,2025-10-26,Indicação
+678,São Francisco,2025-11-06,Google
+679,Jardim dos Estados,2025-08-15,Instagram
+680,Moreninhas,2025-06-23,Google
+681,Jardim dos Estados,2026-02-23,Indicação
+682,Carandá Bosque,2025-10-17,Google
+683,Tiradentes,2025-05-23,Google
+684,Tiradentes,2025-09-11,Cupom
+685,Moreninhas,2025-10-01,Indicação
+686,Tiradentes,2025-09-04,Google
+687,Chácara Cachoeira,2025-07-20,Cupom
+688,Moreninhas,2025-11-20,Indicação
+689,Carandá Bosque,2025-08-31,Google
+690,Centro,2025-10-31,Indicação
+691,Tiradentes,2026-02-22,Instagram
+692,Coronel Antonino,2025-11-17,Instagram
+693,Santa Fé,2026-01-04,Indicação
+694,Santa Fé,2025-07-04,Google
+695,Centro,2026-01-16,Instagram
+696,Santa Fé,2025-08-29,Instagram
+697,Tiradentes,2025-07-08,Google
+698,Moreninhas,2025-11-17,Instagram
+699,Tiradentes,2025-08-14,Google
+700,Jardim dos Estados,2025-09-14,Indicação
+701,Coronel Antonino,2026-04-11,Indicação
+702,Centro,2026-04-04,Google
+703,Centro,2026-05-13,Google
+704,Monte Castelo,2026-03-26,Google
+705,Centro,2026-07-28,Instagram
+706,Moreninhas,2026-03-14,Instagram
+707,Jardim dos Estados,2026-05-02,Indicação
+708,Centro,2026-06-09,Google
+709,Chácara Cachoeira,2026-03-08,Instagram
+710,São Francisco,2026-08-13,Instagram
+711,Jardim dos Estados,2026-05-21,Indicação
+712,São Francisco,2026-05-19,Cupom
+713,Monte Castelo,2026-05-11,Indicação
+714,Jardim dos Estados,2026-04-07,Indicação
+715,Chácara Cachoeira,2026-07-06,Google
+716,Coronel Antonino,2026-03-10,Indicação
+717,Centro,2026-06-19,Instagram
+718,Vila Planalto,2026-03-29,Indicação
+719,Coronel Antonino,2026-07-23,Cupom
+720,Tiradentes,2026-03-27,Indicação
+721,Tiradentes,2026-03-31,Instagram
+722,Centro,2026-05-14,Instagram
+723,Tiradentes,2026-07-19,Instagram
+724,Centro,2026-03-01,Indicação
+725,Vila Planalto,2026-08-15,Instagram
+726,Carandá Bosque,2026-05-06,Indicação
+727,Jardim dos Estados,2026-05-31,Indicação
+728,Chácara Cachoeira,2026-05-22,Google
+729,Moreninhas,2026-04-27,Instagram
+730,Tiradentes,2026-03-15,Instagram
+731,Carandá Bosque,2026-04-16,Indicação
+732,Moreninhas,2026-03-27,Google
+733,Santa Fé,2026-06-05,Instagram
+734,Moreninhas,2026-03-10,Google
+735,Carandá Bosque,2026-06-16,Instagram
+736,Centro,2026-07-01,Instagram
+737,Tiradentes,2026-04-25,Instagram
+738,Tiradentes,2026-07-23,Instagram
+739,Carandá Bosque,2026-04-06,Indicação
+740,Monte Castelo,2026-05-06,Google
+741,Moreninhas,2026-06-24,Cupom
+742,Carandá Bosque,2026-05-31,Indicação
+743,Tiradentes,2026-03-01,Instagram
+744,Centro,2026-08-18,Google
+745,Centro,2026-03-03,Google
+746,Centro,2026-04-30,Indicação
+747,Jardim dos Estados,2026-07-23,Cupom
+748,Tiradentes,2026-05-27,Instagram
+749,Vila Carvalho,2026-07-21,Cupom
+750,Monte Castelo,2026-03-06,Instagram
+751,Jardim dos Estados,2026-06-22,Instagram
+752,Chácara Cachoeira,2026-06-07,Instagram
+753,Centro,2026-07-04,Instagram
+754,Tiradentes,2026-08-18,Google
+755,São Francisco,2026-07-24,Cupom
+756,Chácara Cachoeira,2026-05-16,Indicação
+757,Tiradentes,2026-04-01,Instagram
+758,Vila Planalto,2026-06-07,Indicação
+759,Centro,2026-03-04,Indicação
+760,Carandá Bosque,2026-03-24,Cupom
+761,Moreninhas,2026-07-29,Instagram
+762,Jardim dos Estados,2026-05-09,Instagram
+763,Coronel Antonino,2026-08-03,Instagram
+764,Chácara Cachoeira,2026-04-02,Indicação
+765,São Francisco,2026-06-17,Google
+766,Jardim dos Estados,2026-08-21,Instagram
+767,São Francisco,2026-05-07,Google
+768,Tiradentes,2026-05-09,Google
+769,São Francisco,2026-04-16,Cupom
+770,Santa Fé,2026-04-11,Cupom
+771,Tiradentes,2026-07-06,Google
+772,Chácara Cachoeira,2026-06-18,Google
+773,Centro,2026-03-08,Indicação
+774,Centro,2026-07-24,Google
+775,Centro,2026-04-06,Google
+776,Tiradentes,2026-03-31,Indicação
+777,Coronel Antonino,2026-03-31,Cupom
+778,Santa Fé,2026-05-09,Instagram
+779,Centro,2026-08-06,Instagram
+780,Centro,2026-07-22,Instagram
+781,Centro,2026-06-18,Google
+782,Centro,2026-05-08,Indicação
+783,Coronel Antonino,2026-07-28,Google
+784,Carandá Bosque,2026-04-17,Indicação
+785,Santa Fé,2026-04-28,Instagram
+786,Jardim dos Estados,2026-03-11,Indicação
+787,Chácara Cachoeira,2026-03-13,Google
+788,Chácara Cachoeira,2026-04-04,Cupom
+789,Vila Carvalho,2026-08-04,Cupom
+790,São Francisco,2026-05-02,Indicação
+791,Vila Carvalho,2026-06-28,Google
+792,Coronel Antonino,2026-05-05,Instagram
+793,Moreninhas,2026-07-12,Instagram
+794,Monte Castelo,2026-05-30,Instagram
+795,Centro,2026-08-07,Cupom
+796,Vila Carvalho,2026-08-16,Instagram
+797,Chácara Cachoeira,2026-04-29,Instagram
+798,Carandá Bosque,2026-04-04,Indicação
+799,Centro,2026-06-19,Instagram
+800,São Francisco,2026-07-10,Google
+801,Centro,2026-06-18,Instagram
+802,Santa Fé,2026-08-20,Indicação
+803,Chácara Cachoeira,2026-03-28,Indicação
+804,Jardim dos Estados,2026-06-22,Indicação
+805,Chácara Cachoeira,2026-06-23,Instagram
+806,Vila Carvalho,2026-04-26,Indicação
+807,Carandá Bosque,2026-07-18,Google
+808,Chácara Cachoeira,2026-05-16,Indicação
+809,Centro,2026-07-12,Google
+810,Centro,2026-03-18,Indicação
+811,Centro,2026-04-04,Indicação
+812,Chácara Cachoeira,2026-06-19,Cupom
+813,Monte Castelo,2026-08-23,Instagram
+814,São Francisco,2026-08-22,Instagram
+815,Centro,2026-05-03,Indicação
+816,Jardim dos Estados,2026-07-01,Instagram
+817,Coronel Antonino,2026-07-03,Google
+818,Jardim dos Estados,2026-03-13,Instagram
+819,Vila Carvalho,2026-05-28,Indicação
+820,Tiradentes,2026-07-08,Cupom
+821,Moreninhas,2026-05-02,Google
+822,Centro,2026-03-17,Instagram
+823,Santa Fé,2026-07-01,Indicação
+824,Vila Carvalho,2026-04-19,Google
+825,São Francisco,2026-04-18,Instagram
+826,Vila Planalto,2026-06-14,Google
+827,Vila Carvalho,2026-06-26,Cupom
+828,Moreninhas,2026-04-16,Instagram
+829,Centro,2026-08-16,Indicação
+830,Monte Castelo,2026-07-25,Google
+831,Santa Fé,2026-06-19,Google
+832,Chácara Cachoeira,2026-07-28,Google
+833,Chácara Cachoeira,2026-05-14,Google
+834,Carandá Bosque,2026-03-07,Google
+835,Vila Carvalho,2026-04-04,Google
+836,Monte Castelo,2026-04-13,Indicação
+837,Vila Planalto,2026-03-09,Cupom
+838,Centro,2026-06-04,Cupom
+839,São Francisco,2026-08-05,Instagram
+840,Carandá Bosque,2026-05-27,Google
+841,Centro,2026-04-25,Instagram
+842,Coronel Antonino,2026-04-01,Indicação
+843,Centro,2026-04-13,Instagram
+844,Centro,2026-06-09,Indicação
+845,Centro,2026-03-29,Indicação
+846,Vila Carvalho,2026-05-23,Google
+847,Tiradentes,2026-04-12,Indicação
+848,Monte Castelo,2026-04-29,Google
+849,Centro,2026-03-13,Google
+850,Centro,2026-04-18,Indicação
+851,Centro,2026-05-04,Google
+852,Vila Carvalho,2026-03-03,Cupom
+853,Vila Planalto,2026-08-08,Instagram
+854,Carandá Bosque,2026-07-19,Indicação
+855,Tiradentes,2026-06-15,Google
+856,Vila Carvalho,2026-04-09,Instagram
+857,Centro,2026-07-01,Google
+858,Centro,2026-06-23,Indicação
+859,Chácara Cachoeira,2026-07-19,Indicação
+860,Jardim dos Estados,2026-06-25,Instagram
+861,Coronel Antonino,2026-03-19,Cupom
+862,Tiradentes,2026-04-12,Instagram
+863,Santa Fé,2026-08-02,Cupom
+864,Centro,2026-06-19,Indicação
+865,Tiradentes,2026-05-30,Google
+866,Santa Fé,2026-06-16,Cupom
+867,Coronel Antonino,2026-07-08,Indicação
+868,Jardim dos Estados,2026-04-29,Google
+869,Moreninhas,2026-06-10,Google
+870,Carandá Bosque,2026-04-26,Instagram
+871,Vila Planalto,2026-06-16,Cupom
+872,Vila Planalto,2026-03-01,Indicação
+873,Coronel Antonino,2026-04-02,Cupom
+874,Tiradentes,2026-06-16,Instagram
+875,Centro,2026-08-12,Indicação
+876,São Francisco,2026-07-17,Google
+877,Vila Planalto,2026-07-09,Instagram
+878,Carandá Bosque,2026-03-24,Google
+879,Monte Castelo,2026-05-11,Indicação
+880,Carandá Bosque,2026-04-30,Instagram
+881,Tiradentes,2026-06-01,Indicação
+882,Carandá Bosque,2026-06-30,Instagram
+883,Santa Fé,2026-04-29,Google
+884,Centro,2026-07-29,Indicação
+885,Moreninhas,2026-04-19,Cupom
+886,Tiradentes,2026-06-18,Indicação
+887,Santa Fé,2026-05-26,Indicação
+888,Santa Fé,2026-04-02,Cupom
+889,Coronel Antonino,2026-05-31,Indicação
+890,Coronel Antonino,2026-05-16,Cupom
+891,Jardim dos Estados,2026-03-06,Instagram
+892,Chácara Cachoeira,2026-05-16,Google
+893,Centro,2026-06-14,Indicação
+894,Carandá Bosque,2026-07-09,Indicação
+895,Coronel Antonino,2026-03-12,Indicação
+896,Jardim dos Estados,2026-08-02,Google
+897,Moreninhas,2026-06-23,Indicação
+898,Jardim dos Estados,2026-08-04,Google
+899,Chácara Cachoeira,2026-03-19,Google
+900,Coronel Antonino,2026-06-04,Indicação

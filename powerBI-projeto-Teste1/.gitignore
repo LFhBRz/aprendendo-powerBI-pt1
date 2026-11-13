@@ -1,0 +1,5 @@
+.venv/
+.env
+Thumbs.db
+~$*
+NAO_ABRIR_ATE_TERMINAR/

@@ -1,0 +1,26 @@
+id_restaurante,nome,categoria,bairro,data_entrada,comissao_pct
+1,Doceria Mel e Cacau,Doces,Moreninhas,2025-05-12,15
+2,Burger do Pantanal,Hambúrguer,Tiradentes,2025-10-14,15
+3,Sushi Aquidauana,Japonesa,Vila Planalto,2025-04-27,12
+4,Marmitex da Dona Lia,Marmita,Moreninhas,2025-06-19,15
+5,Açaí Tropical,Açaí,São Francisco,2025-07-06,20
+6,Churrascaria Gaúcha MS,Churrasco,Centro,2025-04-10,15
+7,Pizzaria Bella Massa,Pizza,Centro,2025-06-23,12
+8,Pizza Forno Quente,Pizza,Monte Castelo,2025-11-17,20
+9,Hambúrguer Cerrado,Hambúrguer,Tiradentes,2025-01-27,15
+10,Temaki Express,Japonesa,Vila Carvalho,2025-03-19,15
+11,Marmita Fit CG,Marmita,Chácara Cachoeira,2025-01-29,20
+12,Açaí da Praça,Açaí,Centro,2024-11-14,20
+13,Espeto Sul,Churrasco,Moreninhas,2025-07-06,15
+14,Brigadeiro & Cia,Doces,Monte Castelo,2025-06-19,15
+15,Pizza Napolitana CG,Pizza,Moreninhas,2025-01-29,15
+16,Smash Burger 67,Hambúrguer,Jardim dos Estados,2025-11-01,15
+17,Yakisoba do Chef,Japonesa,Santa Fé,2025-08-19,15
+18,Marmita Caseira,Marmita,Tiradentes,2025-07-15,15
+19,Açaí Power,Açaí,Centro,2025-08-03,20
+20,Grill Pantaneiro,Churrasco,Vila Carvalho,2026-05-30,15
+21,Bolos da Vovó,Doces,Jardim dos Estados,2026-05-31,20
+22,Pizza Express 24h,Pizza,Santa Fé,2026-05-13,15
+23,Burger Vila,Hambúrguer,São Francisco,2025-12-01,20
+24,Sushi Bonito,Japonesa,Centro,2026-04-01,15
+25,Prato Feito do Zé,Marmita,Coronel Antonino,2026-04-04,20
